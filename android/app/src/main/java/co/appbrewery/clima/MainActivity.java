@@ -1,4 +1,4 @@
-package co.appbrewery.clima;
+package co.ugocode.zeta_clima;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
